@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138298073710",
+    "project_id": "project--2450937804515690889"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138298073710:android:e07338ef7726c86a",
+        "android_client_info": {
+          "package_name": "com.example.theodhor.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138298073710-a41n4tbui08ju8ff8d1apcaje9vij6gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theodhor.googlesignin",
+            "certificate_hash": "97FE23CE68B2F9E4E2952FDE5D104F8DD255AB03"
+          }
+        },
+        {
+          "client_id": "138298073710-ntsp5r2592a4l5hlko8h6384chrh38id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsA9lH_cLEf-sJgXVNlQNGApPO9aDeqBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
